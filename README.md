@@ -14,6 +14,9 @@
   <img align="left" alt="Fika Ridaul Maulayya Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<br>
+<br>
+
 - 🔭 I’m currently working on [SantriKoding](https://santrikoding.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/maulayyacyber/portfolio/blob/master/README.md](https://github.com/maulayyacyber/portfolio/blob/master/README.md)
