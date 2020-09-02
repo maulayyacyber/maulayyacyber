@@ -27,7 +27,6 @@
 
 **Languages and Tools:**  
 
-<img height="40" src="https://santrikoding.com/storage/categories/S6BvXkkZMC4tgzPyWa9dJjkGX6ZZ0gvK9l2sllQf.png">
 <img height="40" src="https://santrikoding.com/storage/categories/Z9WjttjEmct1FzwkFDwSVyKpvhTqBWkJUQA1CuLc.png">
 <img height="40" src="https://santrikoding.com/storage/categories/zuwzKbAhb691lp2Q1CIYaFK2w0a5McE1mceDOsRs.png">
 <img height="40" src="https://santrikoding.com/storage/categories/YoSpx2AAk65JI5z9wsiYMY5z7i3vWCe06VUP3FC0.png">
