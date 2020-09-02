@@ -19,11 +19,13 @@
 
 - 🔭 I’m currently working on [SantriKoding](https://santrikoding.com)
 
-- 👨‍💻 All of my projects are available at [https://github.com/maulayyacyber/portfolio/blob/master/README.md](https://github.com/maulayyacyber/portfolio/blob/master/README.md)
+- 👨‍💻 Portfolio at [Here](https://github.com/maulayyacyber/portfolio/blob/master/README.md)
 
-- 📝 I regulary write articles on [https://santrikoding.com](https://santrikoding.com)
+- 📝 I regulary write articles in [https://santrikoding.com](https://santrikoding.com)
 
-- 📫 How to reach me **ridaulmaulayya@gmail.com**
+- 📚 My E-book at [Here](https://santrikoding.com/assets/images/book.png)
+
+- ✉️ How to reach me **ridaulmaulayya@gmail.com**
 
 **Languages and Tools:**  
 
