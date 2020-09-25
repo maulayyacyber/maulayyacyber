@@ -23,7 +23,7 @@
 
 - 📝 I regulary write articles in [https://santrikoding.com](https://santrikoding.com)
 
-- 📚 My E-book at [Here](https://santrikoding.com/assets/images/book.png)
+- 📚 My E-book at [Here](https://santrikoding.com/ebook)
 
 - ✉️ How to reach me **ridaulmaulayya@gmail.com**
 
