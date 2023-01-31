@@ -1,19 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fika Ridaul Maulayya</h1>
 <h3 align="center">A Software Engineer 🚀 from Indonesia</h3>
 
-<a href="https://twitter.com/maulayyacyber">
-  <img align="left" alt="Fika Ridaul Maulayya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/maulayyacyber/">
-  <img align="left" alt="Fika Ridaul Maulayya LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/maulayyacyber">
-  <img align="left" alt="Fika Ridaul Maulayya Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/maulayyacyber/">
-  <img align="left" alt="Fika Ridaul Maulayya Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
 <br>
 <br>
 
