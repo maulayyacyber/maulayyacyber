@@ -25,7 +25,7 @@
 
 ---
 
-## 👨‍💻 Tentang Saya
+## Tentang Saya
 
 - 🚀 *Software Engineer* dari Indonesia  
 - 🔭 Saat ini membangun & mengembangkan **SantriKoding**  
@@ -35,7 +35,7 @@
 
 ---
 
-## 🔗 Social & Link Penting
+## Social & Link
 
 <p align="left">
   <a href="https://santrikoding.com"><img src="https://img.shields.io/badge/Website-santrikoding.com-blue?style=flat&logo=google-chrome&logoColor=white" /></a>
@@ -50,7 +50,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="left">
   <!-- Languages -->
@@ -67,24 +67,13 @@
 
 ---
 
-## 📌 Highlight
+## Highlight
 
-- ✅ Fokus: **Backend Development**, **Web App Architecture**, dan *Content/Education*  
-- 🎯 Misi: bikin developer Indonesia makin jago lewat **SantriKoding**  
-- 🧪 Suka: praktik terbaik, *clean code*, dan proyek real-world
+- Fokus: **Backend Development**, **Web App Architecture**, dan *Content/Education*  
+- Misi: bikin developer Indonesia makin jago lewat **SantriKoding**  
+- Suka: praktik terbaik, *clean code*, dan proyek real-world
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maulayyacyber&show_icons=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulayyacyber&layout=compact" />
-</p>
-
-<p align="center">
-  <img height="190" src="https://streak-stats.demolab.com?user=maulayyacyber" />
-</p>
 
 <!-- Optional: trophy (kalau kamu suka tampilan rame)
 <p align="center">
@@ -92,7 +81,7 @@
 </p>
 -->
 
-## 🤝 Kolaborasi
+## Kolaborasi
 
 Kalau kamu butuh:
 - review arsitektur
