@@ -17,7 +17,8 @@
 **Languages and Tools:**  
 
 
-<img height="50" src="https://santrikoding.com/storage/categories/11166a84-9aa9-4afc-9e30-b25d00dfc575.webp"><img height="50" src="https://santrikoding.com/storage/categories/8c30b91e-fa6a-408c-b9c9-029fd6a0a887.webp">
+<img height="50" src="https://santrikoding.com/storage/categories/11166a84-9aa9-4afc-9e30-b25d00dfc575.webp">
+<img height="50" src="https://santrikoding.com/storage/categories/8c30b91e-fa6a-408c-b9c9-029fd6a0a887.webp">
 <img height="50" src="https://santrikoding.com/storage/categories/f33b3b22-847a-44eb-b334-9695069dbbf9.webp">
 <img height="50" src="https://santrikoding.com/storage/categories/882f1b8c-d939-48cb-aa8a-e470e7f3a42f.webp">
 <img height="50" src="https://santrikoding.com/storage/categories/10b6992b-1d4f-47e5-b2a5-e5e6e8595bc8.webp">
