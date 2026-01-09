@@ -30,8 +30,7 @@
 - 🚀 *Software Engineer* dari Indonesia  
 - 🔭 Saat ini membangun & mengembangkan **SantriKoding**  
 - 📝 Menulis artikel dan tutorial di: https://santrikoding.com  
-- 📚 *E-book* / Kelas online: **(isi link kamu di sini)**  
-- 🌐 *Portfolio*: **(isi link kamu di sini)**  
+- 📚 *E-book* / Kelas online: https://santrikoding.com/ebook 
 - ✉️ Kontak: **ridaulmaulayya@gmail.com**
 
 ---
